@@ -12,3 +12,4 @@ clr-loader==0.2.*
 
 # Discover libpython
 find_libpython==0.3.*
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
